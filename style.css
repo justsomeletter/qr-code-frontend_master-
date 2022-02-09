@@ -1,0 +1,39 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+  font-size: 15px;
+  font-family: "Outfit", sans-serif;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+}
+.container {
+  width: 30%;
+  height: 80%;
+  margin: auto;
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 25px;
+  margin-top: 10%;
+}
+#qr-image {
+  display: block;
+  width: 85%;
+  height: 63%;
+  margin: auto;
+  border-radius: 20px;
+  padding-top: 10px;
+}
+.text {
+  text-align: center;
+  padding: 10px;
+  height: 40%;
+  width: 75%;
+  margin: auto;
+}
+h2 {
+  color: hsl(218, 44%, 22%);
+}
+p {
+  color: hsl(220, 15%, 55%);
+  width: 85%;
+  margin: auto;
+}
